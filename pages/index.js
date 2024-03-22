@@ -49,6 +49,9 @@ export default function Home() {
                             <Content className="text-center" alignment="center">
                                 <p>
                                     As mudanças climáticas referem-se a alterações de longo prazo nos padrões médios do clima global ou regional. Isso inclui mudanças nas temperaturas médias, padrões de precipitação, níveis do mar e outros indicadores climáticos ao longo do tempo.
+                                    <br />
+                                    <br/>
+                                    As mudanças climáticas representam um dos maiores desafios enfrentados pela humanidade no século XXI. Requerem ação urgente e coletiva em níveis local, nacional e global para mitigar os impactos adversos e promover um futuro mais sustentável e resiliente para as gerações futuras.
                                 </p>
                             </Content>
                         </SectionContainer>

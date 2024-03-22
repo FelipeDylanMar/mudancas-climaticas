@@ -1,3 +1,5 @@
+'use client'
+
 import { SectionContainer } from "@components/Section";
 
 const DATA = [
@@ -5,16 +7,22 @@ const DATA = [
         title: "Integrantes",
         items: [
             {
-                label: "Felipe Dylan",
+                label: "Felipe Dylan Mar",
             },
             {
                 label: "Alexandre Samias",
             },
             {
-                label: "Nicolas Brigante",
+                label: "Nicolas Almeida",
             },
             {
-                label: "Jordan",
+                label: "Jordam Santos de Magalhães",
+            },
+            {
+                label: "Leonardo Zaia",
+            },
+            {
+                label: "Guilherme",
             }
         ]
     }

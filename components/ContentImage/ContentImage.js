@@ -20,7 +20,23 @@ const ContentImageData = [
             `<p>Aumento da temperatura: Provoca eventos climáticos extremos mais frequentes e intensos, como ondas de calor, tempestades e secas prolongadas. Derretimento das calotas polares e geleiras: Isso leva ao aumento do nível do mar, ameaçando áreas costeiras e ilhas baixas. <br /> Alterações nos ecossistemas: Mudanças na temperatura e padrões de precipitação podem perturbar habitats naturais, levando à extinção de espécies e alterando a distribuição de plantas e animais. <br /> Riscos para a saúde humana: O aumento das temperaturas pode levar a um aumento das doenças relacionadas ao calor, disseminação de doenças transmitidas por vetores(como malária e dengue) e poluição do ar.</p>`,
         align: "left",
         image: "https://f.i.uol.com.br/fotografia/2022/02/23/16456576236216be175c7db_1645657623_3x2_md.jpg"
-    }
+    },
+    {
+        id: uuid(),
+        title: "Mitigação e Adaptação:",
+        content:
+            "Mitigação: Reduzir as emissões de gases de efeito estufa por meio de medidas como a transição para fontes de energia renovável, aumento da eficiência energética, proteção de florestas e práticas agrícolas sustentáveis. <br> Adaptação: Adotar medidas para se adaptar aos impactos inevitáveis das mudanças climáticas, como construção de infraestrutura resistente a eventos climáticos extremos, implementação de sistemas de alerta precoce e diversificação das fontes de subsistência.",
+        align: "right",
+        image: "https://www.algarveadapta.pt/wp-content/uploads/2021/12/mitigacao_adaptacao.png"
+    },
+    {
+        id: uuid(),
+        title: "Acordos Internacionais:",
+        content:
+            `Os acordos nacionais sobre mudanças climáticas são compromissos assumidos pelos governos de diferentes países para abordar o problema das mudanças climáticas em nível nacional. Esses acordos podem variar em escopo, metas e estratégias, mas geralmente visam reduzir as emissões de gases de efeito estufa, promover a adaptação às mudanças climáticas e trabalhar em direção a uma economia mais sustentável e resiliente ao clima. `,
+        align: "left",
+        image: "https://www.iberdrola.com/documents/20125/40207/Infografico_Cupulas_Climaticas_Marcos.jpg/1ad9e151-249c-51c0-89ed-168b3bf12778?t=1653577910422"
+    },
 ];
 
 export const ContentImage = () => {

@@ -20,9 +20,6 @@ const DATA = [
             },
             {
                 label: "Leonardo Zaia",
-            },
-            {
-                label: "Guilherme",
             }
         ]
     }

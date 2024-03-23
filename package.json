@@ -1,12 +1,12 @@
 {
-    "name": "nutritrack",
+    "name": "mudancasclimaticas",
     "version": "1.1.0",
-    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators.",
+    "description": "Site produzido com NextJs e TailwindCSS, para falar sobre as mudancas climáticas.",
     "main": "index.js",
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/christian-luntok/nutritrack.git"
+        "url": "git+https://github.com/FelipeDylanMar/mudancas-climaticas"
     },
     "keywords": [
         "next",
@@ -18,7 +18,6 @@
         "tailwind"
     ],
     "author": "chrstnl",
-    "homepage": "https://chrstnl.com/",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
